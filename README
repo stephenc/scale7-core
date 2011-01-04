@@ -3,4 +3,6 @@ A fork of https://github.com/s7/scale7-core which is published to the maven cent
 groupId: com.github.stephenc.scale7
 artifactId: scale7-core
 
+The LGPL and Apache licensed code has been removed leaving, what I presume is just the MIT licensed core
+
 -Stephen Connolly
