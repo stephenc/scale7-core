@@ -30,7 +30,7 @@
 
   <groupId>com.github.stephenc.scale7</groupId>
   <artifactId>scale7-core</artifactId>
-  <version>1.3.1-SNAPSHOT</version>
+  <version>1.3.0-SNAPSHOT</version>
   <name>Core - The core classes used by the Scale 7 libraries</name>
   <description>
     A set of core classes used by the Scale 7 libraries.
@@ -45,8 +45,8 @@
 
   <licenses>
     <license>
-      <name>GNU General Public License (GPL)</name>
-      <url>http://www.gnu.org/licenses/gpl.txt</url>
+      <name>GNU Lesser General Public License (LGPL)</name>
+      <url>http://www.gnu.org/licenses/lgpl.txt</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
