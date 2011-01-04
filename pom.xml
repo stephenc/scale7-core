@@ -1,24 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ The core classes used by the Scale 7 libraries.
-  ~
-  ~ Copyright (C) 2010 Dan Washusen
-  ~ Copyright (C) 2010 Dominic Williams
-  ~ Copyright (C) 2011 Stephen Connolly
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU Lesser General Public License as published by
-  ~ the Free Software Foundation, either version 3 of the License, or
-  ~ (at your option) any later version.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-  ~ GNU Lesser General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU Lesser General Public License
-  ~ along with this program. If not, see <http://www.gnu.org/licenses />.
--->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
@@ -45,8 +25,8 @@
 
   <licenses>
     <license>
-      <name>GNU Lesser General Public License (LGPL)</name>
-      <url>http://www.gnu.org/licenses/lgpl.txt</url>
+      <name>MIT License</name>
+      <url>http://www.opensource.org/licenses/mit-license.php</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -75,14 +55,14 @@
       <id>danwashunsen</id>
       <name>Dan Washusen</name>
       <roles>
-        <role>developer</role>
+        <role>Contributor</role>
       </roles>
     </developer>
     <developer>
       <id>dominicwilliams</id>
       <name>Dominic Williams</name>
       <roles>
-        <role>developer</role>
+        <role>Project Lead</role>
       </roles>
     </developer>
   </developers>
