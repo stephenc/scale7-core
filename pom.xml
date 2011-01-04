@@ -30,7 +30,7 @@
 
   <groupId>com.github.stephenc.scale7</groupId>
   <artifactId>scale7-core</artifactId>
-  <version>1.3.0-SNAPSHOT</version>
+  <version>1.3.0</version>
   <name>Core - The core classes used by the Scale 7 libraries</name>
   <description>
     A set of core classes used by the Scale 7 libraries.
