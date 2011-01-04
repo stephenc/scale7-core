@@ -1,0 +1,6 @@
+org.scale7.collections
+org.scale7.concurrency
+org.scale7.networking.clustering
+org.scale7.networking.security
+org.scale7.networking.utility
+org.scale7.portability
