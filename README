@@ -1,0 +1,6 @@
+A fork of https://github.com/s7/scale7-core which is published to the maven central repository under
+
+groupId: com.github.stephenc.scale7
+artifactId: scale7-core
+
+-Stephen Connolly
